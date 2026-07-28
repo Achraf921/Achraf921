@@ -79,5 +79,19 @@ English · French · Darija
 <summary>Also into music, art, fashion, history and sports...</summary>
 <br>
 
+**Music.** I'll listen to just about anything good: mainstream rap, afrobeats, rumba, bachata, and a lot in between. Where I keep ending up though is underground and more experimental rap. The rotation changes every month, but right now it's Che, Nine Vicious, Glokk40Spazz and 63kluff. The videos are half the appeal, every one is its own little world:
+
+<p align="center">
+  <img src="assets/scene-strip.jpg" width="100%" />
+</p>
+<p align="center"><sub>Che · Nine Vicious · 63kluff · Glokk40Spazz</sub></p>
+
+**Art.** There's one shot in Che's <a href="https://youtu.be/dm_CO-OUChs">I ROT</a> (directed by Cole Bennett) that stuck with me: a bare hand reaching up against that deep red. So I taught myself enough Blender to rebuild it in a triangulated, GTA San Andreas kind of style. Cole Bennett's frame on the left, mine on the right:
+
+<p align="center">
+  <img src="assets/irot-hand.jpg" width="49.5%" />
+  <img src="assets/blender-hand.gif" width="49.5%" />
+</p>
+
 </details>
 
