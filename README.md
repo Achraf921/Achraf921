@@ -77,5 +77,9 @@ English · French · Darija
 
 ---
 
-Also into music, fashion, history and sports.
+<details>
+<summary>Also into music, art, fashion, history and sports...</summary>
+<br>
+
+</details>
 
