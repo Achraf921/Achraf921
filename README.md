@@ -20,11 +20,19 @@ Computer Science student at McGill University, based in Montreal. I have a passi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,cpp,nestjs,electron,postgres,redis,kafka,docker,java,aws&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,cpp,nestjs,electron,postgres,redis,kafka,docker,java,aws,bash&theme=dark" />
   </a>
 </p>
 
 <p align="center">plus some assembly when things get low level</p>
+
+---
+
+### Experience
+
+| Role | Organization | Location | Period |
+|------|--------------|----------|--------|
+| Full-Stack Software Engineer | SNA GZ | Paris, France | May - Aug 2025 |
 
 ---
 
