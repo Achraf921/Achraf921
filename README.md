@@ -36,8 +36,6 @@ Computer Science student at McGill University, based in Montreal. I have a passi
 
 **Lads Events** - Events centered social media mobile app with 500+ App Store downloads. Stripe and Apple Pay payments with idempotency enforcement, image moderation through AWS Rekognition. ExpressJS, PostgreSQL, Prisma, AWS.
 
-**[Sua](https://github.com/Achraf921/sua-claude-hackathon)** - Bet on underground artists before they blow up. Real SOL on pump.fun bonding curves, with a Claude-powered AI scout. Built solo in one day at the Claude Builders Hackathon at McGill.
-
 **[twineconvert](https://github.com/Achraf921/twineconvert)** - 192 file converters across 28 format families, running entirely in your browser. No uploads, unlike CloudConvert and friends.
 
 ---
