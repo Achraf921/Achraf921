@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Thai+Tran;Computer+Engineering+%40+McGill;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Achraf+Bayi;Computer+Science+%40+McGill;I+ship+products%2C+not+demos)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thai-tran-minh/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:minh.thai.tran@mail.mcgill.ca)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/thaimtl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achrafbayi/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:achrafbayi@icloud.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=flat&logo=netlify&logoColor=white)](https://achrafportfolioweb.netlify.app/)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ### About
 
-Computer Engineering student at McGill University based in Montréal. I transform ideas into practical tools, with focus on AI, cloud computing, and web technologies for fintech and retail.
+Computer Science student at McGill University, based in Montreal. I build and ship real products end to end: desktop apps, SaaS platforms, mobile apps. Most of my time right now goes into Interview Getter, a desktop app that lands you interviews through automated LinkedIn outreach.
 
 ---
 
@@ -20,32 +20,21 @@ Computer Engineering student at McGill University based in Montréal. I transfor
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,ts,nextjs,react,tailwind,aws,supabase,fastapi,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,electron,python,java,mongodb,supabase,aws,tailwind,git&theme=dark" />
   </a>
 </p>
 
 ---
 
-### Experience
-
-| Role | Organization | Period |
-|------|--------------|--------|
-| President | Claude Builder Club @McGill | 2026 |
-| Claude Campus Ambassador | Anthropic x Wasserman Next Gen | 2026 |
-| Software Engineer Intern | Google Developer Group @McGill | 2025-2026 |
-| Software Engineer Partner | LetA Tech Ltd | 2025 |
-
----
-
 ### Projects
 
-**[SIY (Style It Yourself)](https://github.com/Paullitsc/Style-It-Yourself)** — Personal stylist app with digital closet and fitting room. Built with Next.js, Supabase, FastAPI.
+**[Interview Getter](https://github.com/Achraf921/interview-getter-releases)** - Desktop app that automates LinkedIn outreach so you get interviews instead of ghosted applications. Electron + TypeScript.
 
-**Scikit Stock Screener** — 2nd place at McGill ML Hackathon 2025. Stock picker tool using ML.
+**[Sua](https://github.com/Achraf921/sua-claude-hackathon)** - Bet on underground artists before they blow up. Real SOL on pump.fun bonding curves, with a Claude-powered AI scout. Built solo in one day at the Claude Builders Hackathon at McGill.
 
-**Financial Sentiment Analyzer** — Text analysis app powered by fine-tuned FinBERT.
+**[twineconvert](https://github.com/Achraf921/twineconvert)** - 192 file converters across 28 format families, running entirely in your browser. No uploads, unlike CloudConvert and friends.
 
-**Flight Management System** — Full-stack school project with booking and scheduling features.
+**[SNA GZ platform](https://snagz-app.com)** - Enterprise SaaS for automated Shopify store creation and management. React, Node.js, MongoDB Atlas, AWS.
 
 ---
 
@@ -62,9 +51,9 @@ Computer Engineering student at McGill University based in Montréal. I transfor
 <!-- Snake Animation - requires GitHub Action setup -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thaimtl/thaimtl/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thaimtl/thaimtl/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/thaimtl/thaimtl/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Achraf921/achraf921/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Achraf921/achraf921/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Achraf921/achraf921/output/github-snake.svg" />
 </picture>
 
 
@@ -72,31 +61,4 @@ Computer Engineering student at McGill University based in Montréal. I transfor
 
 ### Education
 
-**B.Eng. Computer Engineering** — McGill University (2024–2028)
-
-Currently learning: AWS Cloud Practitioner certification, hands-on deployment with EC2, S3, Lambda
-
----
-
-### Languages
-
-English · French · Vietnamese
-
----
-
-<details>
-<summary>Also into art, fashion, and amateur photography...</summary>
-<br>
-
-<div align="center">
-
-<img width="880" height="1070" alt="image" src="https://github.com/user-attachments/assets/4e555b1b-3934-4501-b577-41c0da3f5b74" />
-
-
-*Saint George and the Dragon* — Briton Rivière (1908-1909)
-</div>
-
-This is my favorite painting so far, found it at the Musée des Beaux-Arts de Montréal and it stuck with me. Unlike most Saint George paintings showing the hero mid-battle, Rivière captures the aftermath: the knight lies exhausted beside his fallen dragon, his horse dead beneath the beast's coils, having given everything he had. Victory through persistence and sacrifice, not glamour.
-
-
-</details>
+**B.Sc. Computer Science** - McGill University, Montreal
