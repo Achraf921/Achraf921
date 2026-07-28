@@ -20,9 +20,11 @@ Computer Science student at McGill University, based in Montreal. I have a passi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,electron,python,java,mongodb,supabase,aws,tailwind,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,nestjs,electron,postgres,redis,kafka,docker,cpp,java,aws&theme=dark" />
   </a>
 </p>
+
+<p align="center">plus some assembly when things get low level</p>
 
 ---
 
@@ -61,4 +63,16 @@ Computer Science student at McGill University, based in Montreal. I have a passi
 
 ### Education
 
-**B.Sc. Computer Science** - McGill University, Montreal
+**B.Sc. Computer Science** - McGill University, Montreal (2024-2027)
+
+**French Baccalauréat** - Lycée Privé Montalembert - Specialities: Mathematics, Physics, Chemistry
+
+---
+
+### Languages
+
+English · French · Darija
+
+---
+
+Also into music, fashion, history and sports.
