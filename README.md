@@ -86,12 +86,17 @@ English · French · Darija
 </p>
 <p align="center"><sub>Che · Nine Vicious · 63kluff · Glokk40Spazz</sub></p>
 
-**Art.** There's one shot in Che's <a href="https://youtu.be/dm_CO-OUChs">I ROT</a> (directed by Cole Bennett) that stuck with me: a bare hand reaching up against that deep red. So I taught myself enough Blender to rebuild it in a triangulated, GTA San Andreas kind of style. Cole Bennett's frame on the left, mine on the right:
+**Art.** The aesthetic of Che's <a href="https://youtu.be/dm_CO-OUChs">I ROT</a> video (directed by Cole Bennett) was particularly appealing to me, so I tried animating it myself in Blender, in a triangulated, GTA San Andreas kind of style. Cole Bennett's frame on the left, mine on the right:
 
 <p align="center">
   <img src="assets/irot-hand.jpg" width="49.5%" />
   <img src="assets/blender-hand.gif" width="49.5%" />
 </p>
+
+<p align="center">
+  <img src="assets/irot-strip.jpg" width="100%" />
+</p>
+<p align="center"><sub>more frames from I ROT</sub></p>
 
 </details>
 
