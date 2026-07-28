@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achrafbayi/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:achrafbayi@icloud.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=flat&logo=netlify&logoColor=white)](https://achrafportfolioweb.netlify.app/)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/Achraf921)
 
 </div>
 
