@@ -12,7 +12,7 @@
 
 ### About
 
-Computer Science student at McGill University, based in Montreal. I build and ship real products end to end: desktop apps, SaaS platforms, mobile apps. Most of my time right now goes into Interview Getter, a desktop app that lands you interviews through automated LinkedIn outreach.
+Computer Science student at McGill University, based in Montreal. I have a passion for building and for learning new, powerful concepts and tools.
 
 ---
 
