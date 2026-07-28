@@ -30,13 +30,15 @@ Computer Science student at McGill University, based in Montreal. I have a passi
 
 ### Projects
 
-**[Interview Getter](https://github.com/Achraf921/interview-getter-releases)** - Desktop app that automates LinkedIn outreach so you get interviews instead of ghosted applications. Electron + TypeScript.
+**Pleco** - Commercialized SaaS for digital loyalty programs (points or stamps) living in the Apple and Google wallet, serving 7000+ end users. A Kafka based pipeline delivers 7000+ server expensive pass notifications in sub-minute time. Revenue generating, sold door to door to small businesses. NestJS, Redis, Kafka, Docker, PostgreSQL.
+
+**[Interview Getter](https://github.com/Achraf921/interview-getter-releases)** - Desktop app that automates LinkedIn outreach so you get interviews instead of ghosted applications. Captured 1M+ views on social media. Electron + TypeScript.
+
+**Lads Events** - Events centered social media mobile app with 500+ App Store downloads. Stripe and Apple Pay payments with idempotency enforcement, image moderation through AWS Rekognition. ExpressJS, PostgreSQL, Prisma, AWS.
 
 **[Sua](https://github.com/Achraf921/sua-claude-hackathon)** - Bet on underground artists before they blow up. Real SOL on pump.fun bonding curves, with a Claude-powered AI scout. Built solo in one day at the Claude Builders Hackathon at McGill.
 
 **[twineconvert](https://github.com/Achraf921/twineconvert)** - 192 file converters across 28 format families, running entirely in your browser. No uploads, unlike CloudConvert and friends.
-
-**[SNA GZ platform](https://snagz-app.com)** - Enterprise SaaS for automated Shopify store creation and management. React, Node.js, MongoDB Atlas, AWS.
 
 ---
 
@@ -63,7 +65,7 @@ Computer Science student at McGill University, based in Montreal. I have a passi
 
 ### Education
 
-**B.Sc. Computer Science** - McGill University, Montreal (2024-2027)
+**B.Sc. Honours Computer Science, Minor in Statistics** - McGill University, Montreal (2024-2027)
 
 **French Baccalauréat** - Lycée Privé Montalembert - Specialities: Mathematics, Physics, Chemistry
 
