@@ -24,8 +24,6 @@ Computer Science student at McGill University, based in Montreal. I have a passi
   </a>
 </p>
 
-<p align="center">plus some assembly when things get low level</p>
-
 ---
 
 ### Experience
