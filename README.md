@@ -20,7 +20,7 @@ Computer Science student at McGill University, based in Montreal. I have a passi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,cpp,nestjs,electron,postgres,redis,kafka,docker,java,aws,bash&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,ts,cpp,nestjs,postgres,redis,kafka,docker,java,aws,bash&theme=dark" />
   </a>
 </p>
 
