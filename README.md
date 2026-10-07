@@ -36,13 +36,11 @@ Computer Science student at McGill University, based in Montreal. I have a passi
 
 ### Projects
 
+**[Rocket Science World Model Codec](https://github.com/Achraf921/RocketScience-World-Model-Codec)** - 124M parameter reproduction of the learned codec from the MIRA multi-agent world model paper (General Intuition, Kyutai, Epic Games), taking pixel frames into latent space and back. Frozen DINOv3-L encoder with a learned layer-mixing layer in place of the paper's fixed mean, and a ViViT decoder written from scratch with spatial self-attention and causal time attention. Trained on 42k Rocket League replays on an A100, weights on Hugging Face. PyTorch.
+
+**[CodeML 2026 ViT](https://github.com/Achraf921/CodeML-2026-ViT)** - Vision Transformer built from scratch for the L2C challenge at CodeML 2026: parse building engineering plans and flag where the contractor's shop drawing diverges from them. The content is symbols laid out in grids rather than text, so OCR was off the table. 6 blocks, RoPE embeddings, DINOv3-convnext stem to squeeze some transfer learning out of a 4-plan dataset. PyTorch.
+
 **Pleco** - Commercialized SaaS for digital loyalty programs (points or stamps) living in the Apple and Google wallet, serving 7000+ end users. A Kafka based pipeline delivers 7000+ server expensive pass notifications in sub-minute time. Revenue generating, sold door to door to small businesses. NestJS, Redis, Kafka, Docker, PostgreSQL.
-
-**[Interview Getter](https://github.com/Achraf921/interview-getter-releases)** - Desktop app that automates LinkedIn outreach so you get interviews instead of ghosted applications. Captured 1M+ views on social media. Electron + TypeScript.
-
-**Lads Events** - Events centered social media mobile app with 500+ App Store downloads. Stripe and Apple Pay payments with idempotency enforcement, image moderation through AWS Rekognition. ExpressJS, PostgreSQL, Prisma, AWS.
-
-**[twineconvert](https://github.com/Achraf921/twineconvert)** - 192 file converters across 28 format families, running entirely in your browser. No uploads, unlike CloudConvert and friends.
 
 ---
 
