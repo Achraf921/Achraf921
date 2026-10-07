@@ -40,7 +40,7 @@ Computer Science student at McGill University, based in Montreal. I have a passi
 
 **[CodeML 2026 ViT](https://github.com/Achraf921/CodeML-2026-ViT)** - Vision Transformer built from scratch for the L2C challenge at CodeML 2026: parse building engineering plans and flag where the contractor's shop drawing diverges from them. The content is symbols laid out in grids rather than text, so OCR was off the table. 6 blocks, RoPE embeddings, DINOv3-convnext stem to squeeze some transfer learning out of a 4-plan dataset. PyTorch.
 
-**Pleco** - Commercialized SaaS for digital loyalty programs (points or stamps) living in the Apple and Google wallet, serving 7000+ end users. A Kafka based pipeline delivers 7000+ server expensive pass notifications in sub-minute time. Revenue generating, sold door to door to small businesses. NestJS, Redis, Kafka, Docker, PostgreSQL.
+**[Pleco](https://getpleco.net/en#top)** - Commercialized SaaS for digital loyalty programs (points or stamps) living in the Apple and Google wallet, serving 7000+ end users. A Kafka based pipeline delivers 7000+ server expensive pass notifications in sub-minute time. Revenue generating, sold door to door to small businesses. NestJS, Redis, Kafka, Docker, PostgreSQL.
 
 ---
 
