@@ -69,7 +69,7 @@ Computer Science student at McGill University, based in Montreal. I have a passi
 
 **B.Sc. Honours Computer Science, Minor in Statistics** - McGill University, Montreal (2024-2027)
 
-**French Baccalauréat** - Lycée Privé Montalembert - Specialities: Mathematics, Physics, Chemistry
+**French Baccalauréat** - Lycée Privé Montalembert - Specialities: Mathematics, Physics-Chemistry (18/20 and 19/20 respectively)
 
 ---
 
