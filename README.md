@@ -12,7 +12,7 @@
 
 ### About
 
-Computer Science student at McGill University, based in Montreal. I have a passion for building and for learning new, powerful concepts and tools.
+Computer Science student at McGill University, based in Montreal. I like to learn.
 
 ---
 
@@ -76,31 +76,3 @@ Computer Science student at McGill University, based in Montreal. I have a passi
 ### Languages
 
 English · French · Darija
-
----
-
-<details>
-<summary>Also into music, art, fashion, history and sports...</summary>
-<br>
-
-**Music.** I'll listen to just about anything good: mainstream rap, afrobeats, rumba, bachata, and a lot in between. Where I keep ending up though is underground and more experimental rap. The rotation changes every month, but right now it's Che, Nine Vicious, Glokk40Spazz and 63kluff. The videos are half the appeal, every one is its own little world:
-
-<p align="center">
-  <img src="assets/scene-strip.jpg" width="100%" />
-</p>
-<p align="center"><sub>Che · Nine Vicious · 63kluff · Glokk40Spazz</sub></p>
-
-**Art.** The aesthetic of Che's <a href="https://youtu.be/dm_CO-OUChs">I ROT</a> video (directed by Cole Bennett) was particularly appealing to me, so I tried animating it myself in Blender, in a triangulated, GTA San Andreas kind of style. Cole Bennett's frame on the left, mine on the right:
-
-<p align="center">
-  <img src="assets/irot-hand.jpg" width="49.5%" />
-  <img src="assets/blender-hand.gif" width="49.5%" />
-</p>
-
-<p align="center">
-  <img src="assets/irot-strip.jpg" width="100%" />
-</p>
-<p align="center"><sub>more frames from I ROT</sub></p>
-
-</details>
-
